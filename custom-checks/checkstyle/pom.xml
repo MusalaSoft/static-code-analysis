@@ -49,7 +49,7 @@
 
     <dependency>
         <groupId>com.vladsch.flexmark</groupId>
-        <artifactId>flexmark-all</artifactId>
+        <artifactId>flexmark</artifactId>
         <version>${flexmark.version}</version>
     </dependency>
     <dependency>
